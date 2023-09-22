@@ -1,0 +1,34 @@
+*{
+    font-family: 'Trebuchet MS', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+#cur{
+    text-decoration: none;
+}
+
+body{
+    background-image: url('https://w0.peakpx.com/wallpaper/509/60/HD-wallpaper-3d-minecraft-cubes-creative-minecraft-textures-3d-textures-minecraft-art-minecraft-bcakgrounds.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section{
+    background-color: black;
+    opacity: 0.5;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: silver;
+}
+
+p{
+    font-size: large;
+    color: rgba(255,255,255, 1);
+}
+
+#end{
+    color: black;
+}
